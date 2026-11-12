@@ -1,4 +1,0 @@
-.env
-genai/
-__pycache__/
-.pytest_cache/
